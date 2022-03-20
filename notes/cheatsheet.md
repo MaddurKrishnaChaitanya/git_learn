@@ -10,7 +10,8 @@
 contribute to — the command you need is git clone.
     >
         Ex:-
-              $> git clone https://github.com/libgit2/**libgit2**
+
+* $> git clone https://github.com/libgit2/**libgit2**
                  That creates a directory named **libgit2**, initializes a **.git** directory inside it, pulls down all the data for that repository, and checks out a working copy of the latest version.
-              $> git clone https://github.com/libgit2/libgit2 **mylibgit**
+* $> git clone https://github.com/libgit2/libgit2 **mylibgit**
                  That command does the same thing as the previous one, but the target directory is called **mylibgit**.
